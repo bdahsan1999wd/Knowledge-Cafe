@@ -1,0 +1,39 @@
+[
+    {
+      "id": "1",
+      "readTime": 15,
+      "blogTitle": "How to get your first job as a self-taught programmer",
+      "coverImg": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062008.jpg?w=996&t=st=1680357107~exp=1680357707~hmac=c031d7296930a4d59eec9ca49069758036f2aed73ae3d1d8da5428efc117c775",
+      "authorName": "Mr.john",
+      "authorImg": "https://randomuser.me/api/portraits/men/5.jpg",
+      "publishDate": "April 01 (2 Days ago)"
+    },
+    {
+      "id": "2",
+      "readTime": 10,
+      "blogTitle": "How to get your first job as a self-taught programmer",
+      "coverImg": "https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=996&t=st=1680357171~exp=1680357771~hmac=9de350686b2199f4c02a6f96cd221e2ab7b46abfbd7c7e2c0a765dbfb07e1053",
+      "authorName": "Mr.jamal",
+      "authorImg": "https://randomuser.me/api/portraits/men/9.jpg",
+      "publishDate": "April 15 (3 Days ago)"
+    },
+    {
+      "id": "3",
+      "readTime": 5,
+      "blogTitle": "How to get your first job as a self-taught programmer",
+      "coverImg": "https://img.freepik.com/free-photo/close-up-programmer-typing-laptop_23-2149101183.jpg?w=996&t=st=1680357208~exp=1680357808~hmac=0891db6cfa61c1a96f7952deb9459ec01f5f90e46c94994284ca12a4227f67f3",
+      "authorName": "Mr.sony",
+      "authorImg": "https://randomuser.me/api/portraits/men/15.jpg",
+      "publishDate": "April 20 (5 Days ago)"
+    },
+    {
+      "id": "4",
+      "readTime": 7,
+      "blogTitle": "How to get your first job as a self-taught programmer",
+      "coverImg": "https://img.freepik.com/free-photo/professional-programmer-working-late-dark-office_1098-18705.jpg?w=996&t=st=1680357340~exp=1680357940~hmac=3cb2e6c06a04a87957bf926bf36a54f1dd3dabf8a2962596a035ab94d4c4ed5a",
+      "authorName": "Mr.tata",
+      "authorImg": "https://randomuser.me/api/portraits/men/11.jpg",
+      "publishDate": "April 07 (7 Days ago)"
+    }
+  ]
+  
