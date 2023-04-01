@@ -2,8 +2,8 @@ import React from 'react';
 
 const SideBar = () => {
     return (
-        <div>
-            <h1>This is sidebar...</h1>
+        <div className='card mt-4 text-center me-5'>
+            <h2>Spent time on read: </h2>
         </div>
     );
 };

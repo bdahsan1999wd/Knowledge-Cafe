@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <div className='mt-4 container'>
+        <div className='mt-4 p-5'>
             <h3>Difference between props and state?</h3>
             <p>Difference between props and state is that props are passed down from a parent component to a child component and are immutable, whereas state is managed within a component and can be changed over time.</p>
 
